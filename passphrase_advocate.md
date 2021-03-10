@@ -64,12 +64,10 @@ The recipe for perfect password management is straightforward.
 
 Firefox, Chrome, Safari and Internet Explorer all have built in password managers. But if you plan to use your passwords across devices, you probably should use one of these:
 
-* [**1 Password**][1p] (Windows, Mac, iOS, Android)
-* [**LastPass**][lp] (iOS, Android; Chrome plugin works on Windows, Mac, Linux)
-* [**KeePass**][kp] (Linux, Windows, Mac, Android)
+* [**Bitwarden**][bw]
+* [**KeePass**][kp]
 
-[1p]: https://agilebits.com/onepassword
-[lp]: https://lastpass.com/
+[bw]: https://bitwarden.com/
 [kp]: http://keepass.info/
 
 ### 2. Use a strong <u>master password</u> for your password manager.
